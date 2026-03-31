@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I'm **Pandiyaraj**, a QC (Quality Control) Chemist with a passion for data-driven decision making and analytics.
+I'm **Pandiyaraj**, a QC and Operations Analyst with a passion for data-driven decision making and analytics.
 
 ### 🔬 About Me
-- **Professional Background**: QC Chemist with expertise in quality assurance and analytical methods
-- **Data Enthusiast**: Transforming complex chemical and laboratory data into actionable insights
-- **Problem Solver**: Combining domain expertise in chemistry with analytical and programming skills
+- **Professional Background**: QC and Operations Analyst with expertise in quality adn Operation in Mnaufacturing
+- **Data Enthusiast**: Transforming complex Operational,Manufaturing,Logistics,chemical Quality and laboratory data into actionable insights
+- **Problem Solver**: Combining domain expertise in Cement QC and Operation with programming skills
 
 ### 💼 Technical Skills
 
